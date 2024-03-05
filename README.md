@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://media.licdn.com/dms/image/C4D03AQEMFYiZhuh9wg/profile-displayphoto-shrink_400_400/0/1661431611954?e=1715212800&v=beta&t=J4Uv49X1cK7P9GsbJLPr7vsn5n1TOpi9QY4roRvw-I4)"  />
 
 ###
 
