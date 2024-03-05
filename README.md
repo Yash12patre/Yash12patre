@@ -1,6 +1,6 @@
 ![Avi](me.gif)
 
-## Hi there 👋 , I am **Yash Barapatre**, Fullstack developer(https://www.iiitm.ac.in/index.php/en/).
+## Hi there 👋 , I am **Yash Barapatre**, Fullstack developer.
 - 👯 I'm happy to collaborate on any web development project
 - 📫 How to reach me: 
   - Personal: yashbarapatre182@gmail.com
