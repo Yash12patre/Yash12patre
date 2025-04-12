@@ -33,11 +33,7 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?yashbarapatre=your-github-username&show_icons=true&theme=radical" alt="Your GitHub stats" width="50%"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub streak" width="50%"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Yash12patre&show_icons=true&theme=radical" alt="Yash12patre's GitHub stats" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash12patre&theme=radical" alt="GitHub streak" width="48%"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash12patre&layout=compact&theme=radical" alt="Top Languages" width="48%"/> </p>
 
 ---
 
