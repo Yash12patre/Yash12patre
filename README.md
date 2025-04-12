@@ -1,41 +1,61 @@
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">A Passionate Full Stack Developer & Tech Enthusiast</h3>
 
-<h2 align="left">Hi 👋! My name is Yash and I'm a Fullstack Developer </h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;MERN+Stack+Lover;Open+Source+Contributor;Always+Learning..." />
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yash12patre&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yash12patre&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### 💡 About Me
+- 🔭 I’m currently working on **Web Development Projects** using the MERN Stack  
+- 🌱 I’m currently learning **DSA, System Design, and Advanced Backend Architecture**  
+- 🧠 I love working with **React, Node.js, Express, MongoDB, and Tailwind CSS**  
+- 💬 Ask me about **JavaScript, Git, API design, React best practices**  
+- 📫 How to reach me: **[your.email@example.com](mailto:your.email@example.com)**  
+- ⚡ Fun fact: I play the guitar and make Instagram reels! 🎸  
 
-###
+---
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://media.licdn.com/dms/image/C4D03AQEMFYiZhuh9wg/profile-displayphoto-shrink_400_400/0/1661431611954?e=1715212800&v=beta&t=J4Uv49X1cK7P9GsbJLPr7vsn5n1TOpi9QY4roRvw-I4)"  />
+### 🛠️ Technologies & Tools
 
-###
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
+![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+---
 
-###
+### 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Your GitHub stats" width="50%"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub streak" width="50%"/>
+</p>
 
+---
 
-###
+### 📌 Featured Projects
 
-<br clear="both">
+- 🔥 [CreateTrip AI](https://github.com/yourusername/CreateTrip-AI): React + Node.js app that helps plan trips using Gemini AI  
+- 📰 [NewsU](https://github.com/yourusername/NewsU): News site with infinite scroll & real-time updates  
+- 🎥 [AniRank](https://github.com/yourusername/AniRank): Anime ranking app using REST APIs & Tailwind  
+- 🍽 [Restaurant Reservation Backend](https://github.com/yourusername/Restaurant-Reservation-API): Node.js API with JWT Auth, CRUD, MongoDB
 
-###
+---
+
+### 🔗 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=white)](https://yourportfolio.com)
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to star some repos and connect with me!* 🚀
